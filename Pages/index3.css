@@ -1,0 +1,83 @@
+
+
+#logo{
+    font-size: 20px;
+    margin: 40px;
+    /* text-align: center; */
+}
+
+nav,li, a {
+list-style-type: none;
+text-decoration: none;
+display: inline-block;
+margin-right: 20px;
+float: right;
+position: relative;
+top: -25px;
+}
+
+h1{
+    color: gray;
+}
+
+.title{
+    padding: 30px;
+    margin: 20px;
+}
+
+.image,img{
+    margin: 30px;
+}
+
+p{
+font-size: 25px;
+position: relative;
+right: -570px;
+top: -500px;
+}
+
+.end{
+    position: absolute;
+    top: 1700px;
+}
+
+.pentagon{
+    height: 600px;
+    display: flex;
+    position: relative;
+    top: -190px;
+    
+}
+
+
+
+
+
+
+
+.footer{
+    background-color: black;
+    height: 40vh;
+    color: white;
+    }
+    .column{
+    margin: 290px;
+    padding: 50px;
+    display: flex;
+    gap: 90px;
+    
+    }
+    h6{
+    margin-top: 30px;
+    text-wrap: nowrap;
+    }
+    
+    #services{
+        margin-left: -50px;
+    }
+    
+    h3{
+        margin-top: -30px;
+        margin-right: -140px;
+    }
+    

@@ -1,0 +1,50 @@
+.box{
+    background-color: whitesmoke;
+    height: 100vh;
+    width: 30rem;
+    
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+#exit{
+position: absolute;
+top: 43px;
+left: 460px;
+}
+
+form{
+    margin: 40px
+}
+
+#box{
+   position: absolute;
+   top: 540px;
+   right: 1270px;
+   background-color: gray;
+   height: 5vh;
+   width: 2rem;
+}
+
+#text{
+    position: absolute;
+    top: 547px;
+    right: 930px;
+    padding: 10px;
+}
+
+.foot{
+    background-color: black;
+    position: absolute;
+    bottom:-40px;
+    left: 45px;
+      padding: 20px;
+      width: 22rem;
+    color: white;
+    text-align: center;
+}
+
+

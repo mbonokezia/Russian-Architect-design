@@ -1,0 +1,70 @@
+.container{
+    background-color: white;
+    border: 1px outset;
+ }
+
+#logo{
+    font-size: 20px;
+    margin: 40px;
+    /* text-align: center; */
+}
+
+nav,li, a {
+list-style-type: none;
+text-decoration: none;
+display: inline-block;
+margin-right: 20px;
+float: right;
+position: relative;
+top: -25px;
+}
+
+h1{
+    color: gray;
+}
+
+.title{
+    padding: 30px;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: black;
+    height: 40vh;
+    color: white;
+    }
+    .column{
+    margin: 290px;
+    padding: 50px;
+    display: flex;
+    gap: 90px;
+    
+    }
+    h6{
+    margin-top: 30px;
+    text-wrap: nowrap;
+    }
+    
+    #services{
+        margin-left: -50px;
+    }
+    
+    h3{
+        margin-top: -30px;
+        margin-right: -140px;
+    }
+    
+    #images,img{
+        height: 280px;
+        width: 250px;
+        
+    }

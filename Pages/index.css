@@ -1,0 +1,140 @@
+/* *{
+    margin: 10px;
+    padding: 10px;
+} */
+ .container{
+    background-color: white;
+    border: 1px outset;
+ }
+
+#logo{
+    font-size: 40px;
+    margin: 40px;
+    /* text-align: center; */
+}
+
+nav,li, a {
+list-style-type: none;
+text-decoration: none;
+display: inline-block;
+margin-right: 20px;
+float: right;
+position: relative;
+top: -25px;
+}
+
+h1{
+    color: gray;
+}
+
+.title{
+    padding: 30px;
+    margin: 20px;
+}
+
+
+.about{
+float: right;
+padding: 40px;
+position: relative;
+bottom: -260px;
+
+}
+
+
+h5{
+    color: gray;
+    font-size:30px;
+    position: absolute;
+    bottom: -630px;
+    margin: 30px;
+
+}
+
+
+
+h4{
+    position: relative;
+    top: 20px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    font-size: 30px;
+    color: gray;
+}
+
+.focus{
+    margin: 30px;
+    padding: 160px;
+    position: relative;
+    bottom: -350px;
+}
+.number_text{
+    margin: 40px;
+    display: flex;
+    gap: 290px;
+}
+
+h2{
+    font-size: 30px;
+    color: gray;
+    margin: 40px;
+    position: relative;
+    top: 30px;
+}
+
+form,active{
+    font-size: 30px;
+    color: gray;
+}
+
+button{
+    background-color: black;
+    position: absolute;
+    bottom: -1430px;
+    right: 1070px;
+    color: white;
+    height: 50px;
+    width: 140px;
+
+    
+}
+
+
+form{
+    padding: 130px;
+position: relative;
+bottom: -340px;
+}
+
+
+
+
+
+
+
+
+.footer{
+background-color: black;
+height: 40vh;
+color: white;
+}
+.column{
+margin: 290px;
+padding: 50px;
+display: flex;
+gap: 90px;
+
+}
+h6{
+margin-top: 30px;
+text-wrap: nowrap;
+}
+
+#services{
+    margin-left: -50px;
+}
+
+h3{
+    margin-top: -30px;
+    margin-right: -140px;
+}
